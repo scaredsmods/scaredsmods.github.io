@@ -1,0 +1,26 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+li#sbo{
+  border-radius: 0px;
+}
+  
+li#h, li#m, li#p, li#a{
+    float: left;
+    
+}
+  
+li#h a, li#m a, li#p a, li#a a, a {
+    display: block;
+    color: white;
+    text-align: center;
+    
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+  
