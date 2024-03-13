@@ -9,12 +9,12 @@ li#sbo{
   border-radius: 0px;
 }
   
-li#h, li#m, li#p{
+li#h, li#m, li#p, li#a{
     float: left;
     
 }
   
-li#h a, li#m a, li#p a, a {
+li#h a, li#m a, li#p a, li#a a, a {
     display: block;
     color: white;
     text-align: center;
