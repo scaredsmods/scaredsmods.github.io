@@ -9,12 +9,20 @@ li#sbo{
   border-radius: 0px;
 }
   
+<<<<<<< HEAD
 li#h, li#m, li#p, li#a{
+=======
+li#h, li#m, li#p{
+>>>>>>> dce1e29283b1b0c948ed39e584220d017fdf8f28
     float: left;
     
 }
   
+<<<<<<< HEAD
 li#h a, li#m a, li#p a, li#a a, a {
+=======
+li#h a, li#m a, li#p a, a {
+>>>>>>> dce1e29283b1b0c948ed39e584220d017fdf8f28
     display: block;
     color: white;
     text-align: center;
@@ -24,3 +32,10 @@ li#h a, li#m a, li#p a, li#a a, a {
     
 }
   
+<<<<<<< HEAD
+=======
+.active {
+    background-color: #04AA6D;
+    border-radius: 50px;
+}
+>>>>>>> dce1e29283b1b0c948ed39e584220d017fdf8f28
