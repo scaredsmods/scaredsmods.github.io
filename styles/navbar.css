@@ -14,7 +14,7 @@ li#h, li#m, li#p, li#a, li#d{
     
 }
   
-li#h a, li#m a, li#p a, li#a a, li#d a, a {
+li#h a, li#m a, li#p a, li#a a, a {
     display: block;
     color: white;
     text-align: center;
@@ -23,8 +23,21 @@ li#h a, li#m a, li#p a, li#a a, li#d a, a {
     text-decoration: none;
     
 }
-  
-.active {
+li#d a{
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: underline;
+    border-style: solid;
     
+    border-color: white;
+    background-color: rgba(0,0,0,0); 
     border-radius: 50px;
+    
 }
+li#d a:hover{
+    background-color: white;
+    color: black;
+}
+  
