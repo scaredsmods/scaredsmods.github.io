@@ -41,5 +41,6 @@ li#d a:hover{
     color: black;
 }
 .navbar{
-    background-image: url("https://cdn.modrinth.com/data/HVnmMxH1/images/26327bef581206670288bf7e1b1b5f411291f793.jpeg");
+    background-image: linear-gradient(to right, #00AAAA, black);
+    border-radius: 5px;
 }
