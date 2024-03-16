@@ -44,3 +44,14 @@ li#d a:hover{
     background-image: linear-gradient(to right, #00AAAA, black);
     border-radius: 5px;
 }
+.copyright{
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#cr{
+    color: white;
+    margin: 0px;
+    background-color: black;
+}
