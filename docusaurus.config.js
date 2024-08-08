@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ScaredsMods/scaredsmods.github.io/docs/',
           
           /*
           lastVersion: "current",
@@ -63,7 +63,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ScaredsMods/scaredsmods.github.io/docs/',
+            'https://github.com/ScaredsMods/scaredsmods.github.io/blog/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -117,7 +117,7 @@ const config = {
             items: [
               {
                 label: 'Wiki',
-                to: '/docs/',
+                to: '/docs',
               },
             ],
           },

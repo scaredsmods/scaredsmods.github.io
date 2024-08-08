@@ -1,7 +1,7 @@
 {
   "name": "scaredrabbitnl",
   "version": "V1",
-  "private": true,
+  "private": false,
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
