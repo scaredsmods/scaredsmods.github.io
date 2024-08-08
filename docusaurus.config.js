@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'ScaredsMods Wiki',
+  tagline: 'I like coding',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -27,7 +27,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
+  // Even if you don't use Hernationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
@@ -63,7 +63,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ScaredsMods/scaredsmods.github.io/docs/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -82,7 +82,7 @@ const config = {
       navbar: {
         title: 'Scaredsmods Wiki',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -102,7 +102,7 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           //{to: 'about', label: 'About', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ScaredsMods/scaredsmods.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -122,23 +122,6 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
             title: 'More',
             items: [
               {
@@ -151,7 +134,7 @@ const config = {
               },
               {
                 label: 'Source',
-                href: 'https://github.com/ScaredsMods/web/'
+                href: 'https://github.com/ScaredsMods/scaredsmods.github.io'
               },
 
             ],
