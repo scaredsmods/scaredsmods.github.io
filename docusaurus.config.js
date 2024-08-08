@@ -24,7 +24,7 @@ const config = {
   organizationName: 'ScaredsMods', // Usually your GitHub org/user name.
   projectName: 'scaredsmods.github.io', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use Hernationalization, you can use this field to set
