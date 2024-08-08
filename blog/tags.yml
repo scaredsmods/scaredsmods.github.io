@@ -1,0 +1,13 @@
+mods:
+  label: Mod
+  permalink: /mod
+  description: This is a tag for mod changes!
+general:
+  label: General
+  permalink: /general
+  description: This is a tag for general changes!
+website:
+  label: Website
+  permalink: /website
+  description: This is a tag for website changes!
+
